@@ -10,7 +10,7 @@ A versatile package manager and runtime launcher for command-line games written 
 
 ## 💬 Community Discord
 
-**Discord Server:** https://discord.gg/cynUyS2PQ8
+**Discord Server:** https://discord.gg/8NaXEaxWR4
 
 The central hub for sharing AI-generated games. Think of it as a very irresponsible repository where games are shared directly.
 
